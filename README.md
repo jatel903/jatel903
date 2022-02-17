@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jan Trnik
-- 👀 I am interested in the design of electronic circuit and PCBs, firmware development in C ++, Arduino, ESP, PlatformIO, for various applications such as automation, testers, measurement, IoT ...
+- 👀 I am interested in the design of electronic circuit and PCBs, firmware development in C ++, Arduino, ESP, PlatformIO, for various applications such as automation, testers, measurement, IoT but mainly pulse converters such as buck-converter, boost-converter, forward-converter etc...
 - 🌱 I’m currently learning Python, EMC
 - 📫 Reach me on the email jatel@jatel.sk and enter "github" in the subject
 
